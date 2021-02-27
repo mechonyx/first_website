@@ -1,0 +1,25 @@
+body{
+    background-image:url("3000.png");
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+h1{
+    color:red;
+    font-size:50px;
+}
+h3{
+    color:blue;
+}
+#name{
+    color:green;
+    font-size:40px;
+    font-family: 'Hachi Maru Pop', cursive;
+}
+#ironman-image{
+    height:150px;
+    width:150px;
+}
+
+
+
+
